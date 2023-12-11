@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./src/images/screenshot.png)
 
 ### Links
 
@@ -48,6 +48,7 @@ Users should be able to:
 ### What I learned
 
 [tailwindcss](https://tailwindcss.com/)
+
 The first time using Tailwind CSS, allowing for easy addition of styles to individual elements within a component. It's also convenient to combine it with CSS for further customization. I have the flexibility to customize any style that is not present in the default configuration.
 
 ## Contact
